@@ -13,7 +13,11 @@ emoji==2.14.1
 ## pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 ## Se utiliza en windows para instalar pytorch, necesario para usar transformers de Huggingface 
 
-torch==2.6.0+cpu
-torchaudio==2.6.0+cpu
-torchvision==0.21.0+cpu
+##torch==2.6.0+cpu
+##torchaudio==2.6.0+cpu
+##torchvision==0.21.0+cpu
+
+torch
+torchaudio
+torchvision
 
