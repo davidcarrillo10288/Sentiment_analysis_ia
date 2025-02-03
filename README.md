@@ -98,6 +98,9 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
  * NEGATIVO
 
+![image](https://github.com/user-attachments/assets/a95a8698-6379-470c-b3d9-415b9ee575f4)
+
+
 
 
 
