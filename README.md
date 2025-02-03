@@ -80,6 +80,12 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 ### DEPLOYMENT: 
 
-![image](https://github.com/user-attachments/assets/5e2e5bb6-dddf-4697-9862-d94058c4c6eb)
+ * POSITIVO
+
+![image](https://github.com/user-attachments/assets/db35f1af-0dba-468a-b8e8-701cf2837ac7)
+
+ * NEGATIVO
+
+
 
 
