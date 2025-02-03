@@ -49,17 +49,17 @@ Este proyecto es una aplicación web desarrollada con Streamlit que permite anal
 Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
  * Clona el repositorio:
-
-  > git clone https://github.com/davidcarrillo10288/Sentiment_analysis_ia.git
-
+  ```bash
+  git clone https://github.com/davidcarrillo10288/Sentiment_analysis_ia.git
+  ```
  * Instala las dependencias necesarias:
-
-  > pip install -r requirements.txt
-
+  ```bash
+  pip install -r requirements.txt
+  ```
  * Ejecuta la aplicación:
-
-  > streamlit run app.py
-
+  ```bash
+  streamlit run app.py
+  ```
 ## USO:
 
   * Escribe una frase en el cuadro de texto de la aplicación.
