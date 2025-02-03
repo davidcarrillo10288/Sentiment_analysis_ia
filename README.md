@@ -10,6 +10,10 @@ Este proyecto es una aplicación web desarrollada con Streamlit que permite anal
 
 ## CARACTERÍSTICAS:
 
+```bash
+Sentiment_analysis_ia/ │ ├── deployment/ │ ├── .streamlit/ │ ├── app.py │ ├── clean_text.py │ ├── emotion_classification.py │ ├── requirements.txt │ ├── sentiment_analysis_score.py
+```
+
   * <ins>Clasificación de sentimiento:</ins> Predice si un texto es positivo o negativo.
 
   * <ins>Análisis de emociones:</ins> Identifica emociones como alegría, tristeza, miedo, amor, sorpresa o ira.
